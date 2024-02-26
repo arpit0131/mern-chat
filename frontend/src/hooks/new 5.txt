@@ -1,0 +1,4 @@
+
+
+--> to replace require to import statment in backend code you need to add => "type":"module" in package json file after script
+
